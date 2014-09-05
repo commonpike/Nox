@@ -1,4 +1,4 @@
 Nox
 ===
 
-Nodes &amp; relations persistency layer
+A nodes &amp; relations abstraction layer in php
